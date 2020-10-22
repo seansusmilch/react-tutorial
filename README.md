@@ -1,3 +1,9 @@
+# Note
+This tutorial experience was much smoother than with flask or django. The tutorial I followed was [React Tutorial From Scratch: A Step-by-Step Guide for 2020](https://ibaslogic.com/react-tutorial-for-beginners/) by Ibaslogic.
+His tutorial didn't use typescript but it was really easy to follow despite me having to write a couple interfaces to make typescript happy.
+
+
+# Autogen README
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
