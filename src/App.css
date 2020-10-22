@@ -10,3 +10,7 @@ body {
     color: #1f1f1f;
 }
   
+.btn:focus{
+    outline: none!important;
+    box-shadow: none!important;
+}

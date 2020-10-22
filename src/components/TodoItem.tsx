@@ -20,11 +20,11 @@ export const TodoItem = (props:Props)=>{
 
     const {completed,title,id} = props.todo
 
-    useEffect(()=>{
-        return ()=>{
-            alert('Item about to be deleted!')
-        }
-    },[])
+    // useEffect(()=>{
+    //     return ()=>{
+    //         alert('Item about to be deleted!')
+    //     }
+    // },[])
 
     return(
         <li className="input-group">
